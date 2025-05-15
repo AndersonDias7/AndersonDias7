@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 👋 Olá! Eu sou o Anderson Dias
+## 👋 Eu sou o Anderson Dias
 
 Sou um estudante de programação dedicado. Estou em uma jornada intensa de estudos, com foco total em evoluir minhas habilidades técnicas, trabalhando em varios projetos freelancer.
 
