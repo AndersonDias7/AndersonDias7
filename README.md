@@ -11,12 +11,16 @@ Estou em uma jornada intensa, com foco total em evoluir minhas habilidades técn
 - 💡 Focado em **JavaScript**, **HTML/CSS**, **React**, e **Node.js**
 - 🧠 Interesso-me também por temas como performance mental/soft skills
 
-### 💻 Tecnologias que estou estudando:
-- HTML5 / CSS3
+### 💻 Tecnologias:
+
 - JavaScript (ES6+)
+- Python
+- HTML5 | CSS3
+- MySQL | SQL
 - React
 - Node.js
 - Git & GitHub
+
 
 ### 📌 Objetivos atuais:
 - Conseguir um emprego fixo como desenvolvedor
