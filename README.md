@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 👋 Eu sou o Anderson Dias
 
-Sou um estudante de programação dedicado. Estou em uma jornada intensa de estudos, com foco total em evoluir minhas habilidades técnicas, trabalhando em varios projetos freelancer.
+Estou em uma jornada intensa, com foco total em evoluir minhas habilidades técnicas, trabalhando em varios projetos freelancer.
 
 ### 🚀 Sobre mim
 - 🚀 Sou movido por desafios e acredito que a melhor forma de aprender é construindo na prática.
